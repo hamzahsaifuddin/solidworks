@@ -1,0 +1,59 @@
+*{
+	text-align: center;
+}
+
+body {
+	background-image: url(karla-villaizan-KHle1BhNy0s-unsplash.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color : #3C1255;
+	text-align: center;
+	border: 5px solid rgba(151, 117, 170); 
+	cursor: pointer;
+}
+
+p {
+	color: black;
+	text-align: left;
+	line-height: 50px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 180%;
+	font-family: 'Redressed', cursive;
+}
+img{
+	float: center;
+	transition: all 1s;
+}
+img:hover {
+	transform:scale(1.1); 
+}
+
+footer{
+	clear: both;
+	text-align: center;
+}
+ li {
+ 	list-style: none;
+ 	display: inline-block;
+ }
+.webtext{
+	border: 5px dashed blue
+}
+.active{
+	color :purple;
+}
+#div1{
+	background: rgba(0,50,255,0.2);
+}
+#div2{
+	background: rgba(255,50,255,0.2);
+}
+span{
+	font-size: 4rem;
+}
+span2{
+	font-size: 2em
+}
